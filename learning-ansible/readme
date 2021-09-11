@@ -1,0 +1,5 @@
+注意：可以拷贝原始ansible.cfg到conf/，也可以使用现存的
+
+1. 执行sh init.sh初始化配置文件
+2. 执行source ansible_config_env声明环境变量
+3. 至此，可以使用Ansible！！

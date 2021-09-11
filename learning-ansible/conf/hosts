@@ -1,0 +1,5 @@
+[online]
+10.121.198.114
+10.121.198.220 ansible_ssh_user=root ansible_ssh_pass=felixzh
+[offline]
+172.29.1.149
